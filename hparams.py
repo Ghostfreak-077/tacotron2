@@ -73,7 +73,7 @@ class HParams:
         learning_rate=1e-3
         weight_decay=1e-6
         grad_clip_thresh=1.0
-        batch_size=64
+        batch_size=32
         mask_padding=True  # set model's padded outputs to padded value
     
 
